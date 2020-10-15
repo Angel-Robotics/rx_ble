@@ -1,0 +1,6 @@
+package com.dreamwalker.rx_ble_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
